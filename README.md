@@ -14,13 +14,11 @@ Assalamualaikum Everyone!
   <span> Develop By SHAHADAT SAHU</span>
 </p>
 
-_____
-
-![Forks](https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&logo=github&label=Forks&color=blueviolet)
-![Stars](https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&logo=github&label=Stars&color=gold)
-![Last Commit](https://img.shields.io/github/last-commit/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&label=Last%20Commit&color=teal)
-![Repo Size](https://img.shields.io/github/repo-size/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&label=Repo%20Size&color=forestgreen)
-![License](https://img.shields.io/github/license/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&label=License&color=orange)
+![Forks](https://img.shields.io/github/forks/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&color=blueviolet&cacheSeconds=60)
+![Stars](https://img.shields.io/github/stars/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&color=gold&cacheSeconds=60)
+![Last Commit](https://img.shields.io/github/last-commit/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&color=teal&cacheSeconds=60)
+![Repo Size](https://img.shields.io/github/repo-size/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&color=forestgreen&cacheSeconds=60)
+![License](https://img.shields.io/github/license/shahadat-sahu/SHAHADAT-CHAT-BOT?style=flat&color=orange&cacheSeconds=60)
 ![Node Version](https://img.shields.io/badge/Node-18+-lightgrey?style=flat&logo=node.js&color=brightgreen)
 
 _____
